@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FamilySafety</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="guard_fragment_title">Guard fragment</string>
+    <string name="profile_fragment_title">Profile fragment</string>
+    <string name="sos_fragment_title">SOS fragment</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home" android:id="@+id/menu_home" android:icon="@drawable/ic_home"/>
+    <item android:title="Guard" android:id="@+id/menu_guard" android:icon="@drawable/ic_guard"/>
+    <item android:title="Profile" android:id="@+id/menu_profile" android:icon="@drawable/ic_profile"/>
+    <item android:title="SOS" android:id="@+id/menu_sos" android:icon="@drawable/ic_sos"/>
+</menu>
